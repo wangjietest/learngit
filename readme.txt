@@ -11,10 +11,6 @@ create a new branch
 
 add a new line
 
-<<<<<<< HEAD
-some works
-=======
 some works for test
 
 some work 2
->>>>>>> bug1
